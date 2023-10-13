@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**vanymartins2/vanymartins2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vanessa, and this is my GitHub profile. 🚀
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning NodeJS.
+- 🔭 I'm working on Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanymartins2&show_icons=true&theme=react)](https://github.com/vanymartins2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanymartins2&layout=compact&theme=react)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vanessa-martins2)
+- [X](https://twitter.com/vanymartins2)
+
+Thanks for stopping by! 😊

@@ -7,7 +7,7 @@ I'm Vanessa, and this is my GitHub profile. 🚀
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanymartins2&show_icons=true&theme=react)](https://github.com/vanymartins2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanymartins2&layout=compact&theme=react)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanymartins2&show_icons=true&theme=transparent)](https://github.com/vanymartins2) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanymartins2&layout=compact&theme=transparent)
 
 ## 📫 Connect with Me
 
